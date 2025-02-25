@@ -1,8 +1,16 @@
 README:
-1. **Project Overview**: Provides a brief description of what the application does and its purpose.
-2. **Features**: Lists the key functionalities of the program, such as asking questions and displaying answers.
-3. **How to Run**: Instructions for users to set up and run the application on their machine.
-4. **Example Interaction**: Shows a sample conversation between the application and the user, demonstrating what the user will see and how they will respond.
-5. **Technologies Used**: Mentions Node.js and the `readline` module, highlighting the technologies used in the project.
-6. **License**: Mentions the licensing (MIT License in this case), but you can adjust this based on your project's requirements.
+# My Personal Information
 
+## Questions & Answers:
+
+What is your name? Ashley
+
+How old are you? 27
+
+What is your favorite color? Purple
+
+What is your favorite season? Fall
+
+Do you have any pets? (yes/no) yes
+
+When is your birthday? 12/15
