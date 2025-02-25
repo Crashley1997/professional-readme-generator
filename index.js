@@ -3,22 +3,22 @@ const fs = require('fs');
 const questions = [
   {
     question: "What is your name?",
-    type: "text", 
+    type: "ashley", 
     answer: null
   },
   {
     question: "How old are you?",
-    type: "number", 
+    type: "27", 
     answer: null
   },
   {
     question: "What is your favorite color?",
-    type: "text",
+    type: "purple",
     answer: null
   },
   {
     question: "What is your favorite season?",
-    type: "text",
+    type: "fall",
     answer: null
   },
   {
@@ -28,7 +28,7 @@ const questions = [
   },
   {
     question: "When is your birthday?",
-    type: "date",
+    type: "12/15",
     answer: null
   }
 ];
